@@ -19,7 +19,7 @@
 -> To install node modules used in this API , run the command "npm install i" on your respective terminal.
 
 
--> To connect to the local host, run the command "npm start server" on your resprective terminal.
+-> To connect to the local host, run the command "npm start devStart" on your resprective terminal.
 
 
 
