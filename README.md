@@ -10,9 +10,10 @@
 
 
 
--> A Simple Rest API project made just for testing the various HTTP requests and their status codes.
+-> A Simple Rest API project made just for testing the various HTTP requests, their status codes,  and basically doing CRUD Operations .
 
--> This API basicallyu contains a  information about the subscriber's name and the channel to which the subscriber has subscribed to.
+
+-> This API basically contains a  information about the subscriber's name and the channel to which the subscriber has subscribed to.
 
 
 -> To install node modules used in this API , run the command "npm install i" on your respective terminal.
